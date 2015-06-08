@@ -8,6 +8,4 @@ You can use <sub>subscript</sub> and <sup>superscript</sup>, too.
 
 You can mark something as <del>deleted</del> as well.
 
-This is some text with some linebreaks\\ Note that the
-two backslashes are only recognized at the end of a line\\
-or followed by\\ a whitespace \\this happens without it.
+ [[http://www.google.com|This Link points to google]]
