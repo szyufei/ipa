@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://123.59.56.209/static/app/ios/Blue.ipa</string>
+					<string>http://123.59.56.209/app/ios/Blue.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://123.59.56.209/static/app/ios/Icon512.png</string>
+					<string>http://123.59.56.209/app/ios/Icon512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://123.59.56.209/static/app/ios/Icon57.png</string>
+					<string>http://123.59.56.209/app/ios/Icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
